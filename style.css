@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: white; /* Set the default text color to white */
+    background-color: #333; /* Set a dark background color */
+}
+
+header {
+    radius: 50dp;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #38230C; /* Set header background color */
+    padding: 10px; /* Add padding for better visual appearance */
+}
+
+.privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px; /* Add padding around content */
+    border-radius: 8px; /* Optional: Add border radius for a rounded appearance */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow for depth */
+}
+
+h1, h2, h3 {
+    color: white; /* Set heading colors to white */
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1em;
+    color: white; /* Set footer text color to white */
+   background-color: #38230C; /* Set header background color */
+}
